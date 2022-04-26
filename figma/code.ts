@@ -1,10 +1,4 @@
-/*
- * @Description: This is Description
- * @Author: Wendy Gao
- * @Date: 2022-04-26 23:16:11
- * @LastEditors: Wendy Gao
- * @LastEditTime: 2022-04-26 23:16:12
- */
+/// <reference types="@figma/plugin-typings" />
 // This plugin will open a window to prompt the user to enter a number, and
 // it will then create that many rectangles on the screen.
 
