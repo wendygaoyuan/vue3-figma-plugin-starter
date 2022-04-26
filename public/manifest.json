@@ -1,0 +1,10 @@
+{
+  "name": "quanquan",
+  "id": "1098246969318987519",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figma"
+  ],
+  "ui": "index.html"
+}
