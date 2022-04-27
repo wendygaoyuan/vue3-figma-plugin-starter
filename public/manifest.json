@@ -1,6 +1,6 @@
 {
-  "name": "quanquan",
-  "id": "1098246969318987519",
+  "name": "your plugin name",
+  "id": "your plugin id",
   "api": "1.0.0",
   "main": "code.js",
   "editorType": [
